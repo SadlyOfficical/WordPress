@@ -2,7 +2,7 @@
 	"name": "Wordpress for Heroku",
 	"description": "Based on Wordpress Version 5.7",
 	"repository": "https://github.com/SadlyOfficical/WordPress",
-	"logo": "https://github.com/SadlyOfficical/WordPress/blob/master/wordpress-logo.png",
+	"logo": "https://www.234.in.th/images/2021/05/03/wordpress-logo.png",
 	"keywords": ["wordpress", "heroku", "mysql", "php", "apache2", "nginx"],
   
     "env": {
